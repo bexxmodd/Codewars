@@ -1,6 +1,4 @@
-### In this section I will be copying the Codewars exercises and aranging them by date within month.
-### Each of the exercise will have it's difficulty assignt and as soon as the exercise is solved it will have check mark
-### In another file, I will post all the solved exercises which will be linked by the exercise name
+_In this section I will be copying the Codewars exercises and aranging them by date within month. Each of the exercise will have it's difficulty assignt and as soon as the exercise is solved it will have check mark. In another file, I will post all the solved exercises which will be linked by the exercise name_
 
 ----------
 # May
