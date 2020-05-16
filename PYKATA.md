@@ -2,7 +2,7 @@ _In this section I will be copying the Codewars exercises and aranging them by d
 
 ----------
 # May
-### Total Exercises completed = 4
+### Total Exercises Completed = 4
 
 ### Total Exercises Attempted = 4
 
