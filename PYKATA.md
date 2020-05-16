@@ -6,7 +6,8 @@ _In this section I will be copying the Codewars exercises and aranging them by d
 
 ### Total Exercises Attempted = 5
 
-## Week 3 05-17-2020 to 05-23-2020
+-----------
+## Week 3: 05-17-2020 to 05-23-2020
 
 - [X] **Find the Parity Outlier (6 kyu)**
 
