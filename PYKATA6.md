@@ -57,8 +57,11 @@ Complete the function `scramble(str1, str2)` that returns `True` if a portion of
 
 `Input strings s1 and s2 are null terminated.`
 
+
 _Examples_
 
 `scramble('rkqodlw', 'world') ==> True`
+
 `scramble('cedewaraaossoqqyt', 'codewars') ==> True`
+
 `scramble('katas', 'steak') ==> False`
