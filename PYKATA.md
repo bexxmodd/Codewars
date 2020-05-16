@@ -2,8 +2,9 @@ _In this section I will be copying the Codewars exercises and aranging them by d
 
 ----------
 # May
-Total Exercises completed = 4
-Total Exercises Attempted = 4
+### Total Exercises completed = 4
+
+### Total Exercises Attempted = 4
 
 ## Week 3 05-17-2020 to 05-23-2020
 
