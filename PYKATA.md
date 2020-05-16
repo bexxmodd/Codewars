@@ -2,9 +2,9 @@ _In this section I will be copying the Codewars exercises and aranging them by d
 
 ----------
 # May
-### Total Exercises Completed = 4
+### Total Exercises Completed = 5
 
-### Total Exercises Attempted = 4
+### Total Exercises Attempted = 5
 
 ## Week 3 05-17-2020 to 05-23-2020
 
@@ -48,7 +48,7 @@ The ball can only be seen if the height of the rebounding ball is strictly great
 `(Condition 2) not fulfilled).`
 
 ----------
-- [ ] **Scramblies (5 kyu)**
+- [x] **Scramblies (5 kyu)**
 
 Complete the function `scramble(str1, str2)` that returns `True` if a portion of `str1` characters can be rearranged to match `str2`, otherwise returns `False`.
 
