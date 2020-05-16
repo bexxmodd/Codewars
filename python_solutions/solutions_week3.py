@@ -37,5 +37,14 @@ print(scramble('katas', 'steak'))
 print(scramble('scriptjava', 'javascript'))
 
 
+# Multiples of 3 or 5 (6 kyu)
+def solution(number):
+    return sum(n for n in range(number) if n % 3 == 0 or n % 5 == 0)
+
+print('\n** solution => 6 kyu! **')
+print(solution(10))
+print(solution(20))
+
+
 
 
