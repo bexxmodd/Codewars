@@ -44,3 +44,21 @@ The ball can only be seen if the height of the rebounding ball is strictly great
 `h = 3, bounce = 1, window = 1.5, result is -1`
 
 `(Condition 2) not fulfilled).`
+
+----------
+- [ ] **Scramblies (5 kyu)**
+
+Complete the function `scramble(str1, str2)` that returns `True` if a portion of `str1` characters can be rearranged to match `str2`, otherwise returns `False`.
+
+**Notes:**
+
+* Only lower case letters will be used (a-z). No punctuation or digits will be included.
+* Performance needs to be considered
+
+`Input strings s1 and s2 are null terminated.`
+
+_Examples_
+
+`scramble('rkqodlw', 'world') ==> True`
+`scramble('cedewaraaossoqqyt', 'codewars') ==> True`
+`scramble('katas', 'steak') ==> False`
