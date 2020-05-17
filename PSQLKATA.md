@@ -1,3 +1,12 @@
+# May
+### Total Exercises Completed = 5
+
+### Total Exercises Attempted = 5
+
+-----------
+## Week 3: 05-17-2020 to 05-23-2020
+
+
 - [x] **Adults only (SQL for Beginners #1) (8 kyu)**
 
 In your application, there is a section for adults only. You need to get a list of names and ages of users from the users table, who are 18 years old or older.
@@ -62,7 +71,7 @@ books table schema
 * copies_sold
 
 ------------
--[ ] **Countries Capitals for Trivia Night (SQL for Beginners #6) (7 kyu)**
+-[x] **Countries Capitals for Trivia Night (SQL for Beginners #6) (7 kyu)**
 
 Your friends told you that if you keep coding on your computer, you are going to hurt your eyes. They suggested that you go with them to trivia night at the local club.
 
