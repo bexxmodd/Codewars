@@ -1,7 +1,7 @@
 # May
-### Total Exercises Completed = 5
+### Total Exercises Completed = 6
 
-### Total Exercises Attempted = 5
+### Total Exercises Attempted = 6
 
 -----------
 ## Week 3: 05-17-2020 to 05-23-2020
