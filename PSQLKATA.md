@@ -71,7 +71,7 @@ books table schema
 * copies_sold
 
 ------------
--[x] **Countries Capitals for Trivia Night (SQL for Beginners #6) (7 kyu)**
+- [x] **Countries Capitals for Trivia Night (SQL for Beginners #6) (7 kyu)**
 
 Your friends told you that if you keep coding on your computer, you are going to hurt your eyes. They suggested that you go with them to trivia night at the local club.
 
